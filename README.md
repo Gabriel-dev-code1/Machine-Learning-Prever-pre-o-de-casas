@@ -1,4 +1,4 @@
-# Machine-Learning-Prever-o preço-de-casas
+# Machine-Learning-House-forecast
 Simple project that receives the size of a house in m2 and returns the price based on a database, relying on probability.
 
 Language: python
